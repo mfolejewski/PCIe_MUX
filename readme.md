@@ -11,6 +11,12 @@ The implementation provided here is a key feature of the **MirkoPC** carrier boa
 *   **HAT Mode:** If the slot is empty, the interface switches to the external HAT connector.
 *   **Visual Feedback:** Two green LEDs indicate the currently active PCIe path (M.2 vs. HAT).
 
+![Screenshot](pictures/PCIe_MUX_1.jpg)
+![Screenshot](pictures/PCIe_MUX_2.jpg)
+![Screenshot](pictures/PCIe_MUX_3.jpg)
+![Screenshot](pictures/PCIe_MUX_4.jpg)
+![Screenshot](pictures/PCIe_MUX_5.jpg)
+
 ### PCB Design and Signal Integrity
 The attached layout demonstrates professional high-speed routing techniques:
 *   **Differential Pairs:** Routed with inter-pair spacing > 0.4 mm to minimize crosstalk.
@@ -29,6 +35,9 @@ The implementation uses a 4-layer stackup:
 
 ### Design Files and Format
 The source files are provided in **Altium Designer** format, including the full schematic, PCB layout, and project settings.
+
+![Screenshot](pictures/PCIe_MUX_6.jpg)
+![Screenshot](pictures/PCIe_MUX_7.jpg)
 
 #### KiCad Compatibility
 KiCad users can easily import this project thanks to its native Altium importer. To do so:
