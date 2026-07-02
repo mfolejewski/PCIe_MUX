@@ -53,6 +53,8 @@ KiCad users can easily import this project thanks to its native Altium importer.
 ### License
 This project is released under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)**.
 
+License file: ![License](license.TXT)
+
 **What does this mean?**
 The "Strongly Reciprocal" variant is the most robust version of the CERN license. It ensures that the hardware remains open. If you make modifications to these design files and distribute them (or products based on them), you are required to share those modifications under the same CERN-OHL-S license. This protects the project from becoming closed-source while allowing for commercial use, provided the spirit of open hardware is maintained.
 
