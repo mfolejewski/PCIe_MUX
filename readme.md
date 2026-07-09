@@ -50,6 +50,18 @@ KiCad users can easily import this project thanks to its native Altium importer.
 *   High-resolution PCB screenshots.
 *   Photos of the practical implementation from the **MirkoPC** project.
 
+### Disclaimer
+
+This project is provided for educational and reference purposes only.
+
+The hardware design, schematics, PCB layouts, documentation, and all accompanying files are provided **"AS IS"**, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+Although every effort has been made to ensure the correctness of this design, the documentation and source files may contain errors, omissions, or inaccuracies. Users are solely responsible for verifying the design before manufacturing, assembly, or use in any application.
+
+The author assumes no responsibility or liability for any direct, indirect, incidental, consequential, or special damages arising from the use of this project, including but not limited to hardware damage, data loss, financial loss, production failures, or personal injury.
+
+Use this project entirely at your own risk.
+
 ### License
 This project is released under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S-2.0)**.
 
